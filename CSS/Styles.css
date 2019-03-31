@@ -1,0 +1,33 @@
+body{
+    background-color: #fcf4dada;
+
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:brown;
+    border-width: 5px;
+
+    /* height: 3px; */
+    width: 7%;
+}
+
+h1{
+    color: brown;
+    font-style: italic;
+}
+
+h3{
+    color: brown;
+    font-style: italic;
+}
+
+.circular{
+    border-radius: 100%;
+
+}
+
+img:hover{
+    background-color: goldenrod;
+}
+
